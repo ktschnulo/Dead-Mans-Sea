@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.1",
+  "option_operagx_next_version": "1.0.0.2",
+  "option_operagx_game_name": "DeadMansSea",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "943a843f-7200-4034-8a86-dc8e1cc9d770",
+  "option_operagx_team_name": "ktschnulo studio",
+  "option_operagx_team_id": "c9d33b9f-59d6-4fc2-96db-6fb1c5e5cede",
+  "option_operagx_editUrl": "https://create.gx.games/game/943a843f-7200-4034-8a86-dc8e1cc9d770/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}
