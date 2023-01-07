@@ -1,0 +1,8 @@
+How To Play:
+	Objective:
+		Complete all levels and defeat the final boss.
+		It take one cannoball to sink all ships.
+		If you are hit once the game will end.
+	Contols: 
+		W to sail up, A to sail left, S to sail down, D to sail right
+		Aim with the mouse, LMB to shoot
